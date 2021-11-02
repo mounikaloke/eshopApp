@@ -9,3 +9,9 @@ console.log(a);
 function Addition() {
     return a+ b;
 }
+
+
+function subtraction() {
+    return a - b;
+}
+
